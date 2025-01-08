@@ -12,6 +12,7 @@ Repository for tacking my LeetCode practice.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EPalmer14/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/EPalmer14/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@ Repository for tacking my LeetCode practice.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EPalmer14/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/EPalmer14/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
