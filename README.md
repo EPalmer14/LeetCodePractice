@@ -59,4 +59,5 @@ Repository for tacking my LeetCode practice.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/EPalmer14/LeetCodePractice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
