@@ -11,6 +11,7 @@ Repository for tacking my LeetCode practice.
 | [0088-merge-sorted-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EPalmer14/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/EPalmer14/LeetCodePractice/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/EPalmer14/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/EPalmer14/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ Repository for tacking my LeetCode practice.
 | [0027-remove-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/EPalmer14/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/EPalmer14/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/EPalmer14/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/EPalmer14/LeetCodePractice/tree/master/0392-is-subsequence) |
@@ -69,4 +71,8 @@ Repository for tacking my LeetCode practice.
 | [0125-valid-palindrome](https://github.com/EPalmer14/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/EPalmer14/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/EPalmer14/LeetCodePractice/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/EPalmer14/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
