@@ -31,19 +31,5 @@ class Solution(object):
             candies -= min(increasing_neighbors, decreasing_neighbors)
 
         return candies
-                
-                
-
-        
-        if(ratings[0] <= ratings[1]):
-            candies += 1
-        else:
-            candies += 2
-
-        if(ratings[-1] <= ratings[-2]):
-            candies += 1
-        else:
-            candies += 2
-        
-        return candies
+   
         
