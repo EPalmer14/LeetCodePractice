@@ -14,9 +14,9 @@ class Solution(object):
                 hashmap[char] = 1
 
         for char in ransomNote:
-            if char not in hashmap or hashmap[char] == 0:
+            if char not in hashmap or hashmap[char] <= 0:
                 return False
-            else:
+            else: 
                 hashmap[char] -= 1
         
         return True
