@@ -6,6 +6,7 @@ Repository for tacking my LeetCode practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EPalmer14/LeetCodePractice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ Repository for tacking my LeetCode practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EPalmer14/LeetCodePractice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/EPalmer14/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0169-majority-element) |
