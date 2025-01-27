@@ -44,6 +44,7 @@ Repository for tacking my LeetCode practice.
 | [0001-two-sum](https://github.com/EPalmer14/LeetCodePractice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/EPalmer14/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EPalmer14/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/EPalmer14/LeetCodePractice/tree/master/0205-isomorphic-strings) |
@@ -127,6 +128,7 @@ Repository for tacking my LeetCode practice.
 | ------- |
 | [0002-add-two-numbers](https://github.com/EPalmer14/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/EPalmer14/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EPalmer14/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
