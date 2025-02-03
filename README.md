@@ -65,6 +65,7 @@ Repository for tacking my LeetCode practice.
 | [0002-add-two-numbers](https://github.com/EPalmer14/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/EPalmer14/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/EPalmer14/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ Repository for tacking my LeetCode practice.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/EPalmer14/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EPalmer14/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/EPalmer14/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
