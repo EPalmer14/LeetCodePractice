@@ -29,6 +29,7 @@ Repository for tacking my LeetCode practice.
 | [0141-linked-list-cycle](https://github.com/EPalmer14/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EPalmer14/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/EPalmer14/LeetCodePractice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/EPalmer14/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/EPalmer14/LeetCodePractice/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -47,6 +48,7 @@ Repository for tacking my LeetCode practice.
 | [0138-copy-list-with-random-pointer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EPalmer14/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/EPalmer14/LeetCodePractice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/EPalmer14/LeetCodePractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/EPalmer14/LeetCodePractice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EPalmer14/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/EPalmer14/LeetCodePractice/tree/master/0383-ransom-note) |
@@ -67,6 +69,7 @@ Repository for tacking my LeetCode practice.
 | [0013-roman-to-integer](https://github.com/EPalmer14/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/EPalmer14/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/EPalmer14/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/EPalmer14/LeetCodePractice/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
